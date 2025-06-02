@@ -1,6 +1,6 @@
 # Sports-Concussion-Assessment-System
 
-A Java-based comprehensive solution for monitoring and assessing concussion risks in athletes. This system provides real-time risk analysis and tracking of concussion symptoms, helping sports organizations and medical professionals make informed decisions about athlete safety.
+A Java-based platform for monitoring and assessing concussion risks in athletes. This system provides real-time risk analysis and tracking of concussion symptoms, helping sports organizations and medical professionals make informed decisions about athlete safety.
 
 ## Requirements
 - Java Runtime Environment (JRE) 8 or higher
