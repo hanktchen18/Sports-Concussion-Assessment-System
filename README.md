@@ -9,7 +9,7 @@ A Java-based platform for monitoring and assessing concussion risks in athletes.
 Clone this repository to your computer:
 ```bash
 git clone https://github.com/hanktchen18/ASAD-Sports-Concussion-Assessment-System.git
-cd ASAD-Sports-Concussion-Assessment-System
+cd Sports-Concussion-Assessment-System
 ```
 
 ## How to Use
