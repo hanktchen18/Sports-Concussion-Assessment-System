@@ -4,6 +4,9 @@ This app has been developed in Java. This is a Command Line app.
 
 A Java-based platform for monitoring and assessing concussion risks in athletes. This system provides real-time risk analysis and tracking of concussion symptoms, helping sports organizations and medical professionals make informed decisions about athlete safety.
 
+<img width="641" height="830" alt="image" src="https://github.com/user-attachments/assets/36d17be0-63a6-4b54-bf3a-dbdb078a8982" />
+
+
 ## Requirements
 - Java Runtime Environment (JRE) 8 or higher
 
