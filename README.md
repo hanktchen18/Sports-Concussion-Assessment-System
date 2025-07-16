@@ -1,6 +1,6 @@
 # Sports-Concussion-Assessment-System
 
-This app has been developed in Java. This is a Command Line app.
+This is a Command Line app.
 
 A Java-based platform for monitoring and assessing concussion risks in athletes. This system provides real-time risk analysis and tracking of concussion symptoms, helping sports organizations and medical professionals make informed decisions about athlete safety.
 
